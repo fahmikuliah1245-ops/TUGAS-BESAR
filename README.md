@@ -1,5 +1,5 @@
 # TUGAS-BESAR
-pbo per kelompok
+pbo 
 
 # PANDUAN INSTALASI FINAL
 # Aplikasi Absensi Face Recognition
